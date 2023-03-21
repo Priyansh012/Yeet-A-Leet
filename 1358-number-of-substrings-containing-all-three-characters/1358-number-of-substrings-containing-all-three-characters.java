@@ -9,7 +9,7 @@ class Solution {
         while(end<n){
             
             charArray[s.charAt(end)-'a']++;
-            while(charArray[0]>0 && charArray[1]>0 && charArray[2]>0 && start<=end){
+            while(charArray[0]>0 && charArray[1]>0 && charArray[2]>0){
                 charArray[s.charAt(start)-'a']--;
                 count+=(n-end);
                 start++;
