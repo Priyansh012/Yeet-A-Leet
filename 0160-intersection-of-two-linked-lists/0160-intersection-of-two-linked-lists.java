@@ -34,12 +34,12 @@ public class Solution {
         while(tempCount!=0){
             if(countA<countB)
                 traverseB=traverseB.next;
-            else if(countB<countA)
+            else
                 traverseA=traverseA.next;
             tempCount-=1;
         }
         
-        while(countA>0 && countB>0){
+        while(countA>0){
             if(traverseA==traverseB){
                 intersect=traverseA;
                 return intersect;
@@ -47,7 +47,6 @@ public class Solution {
             traverseB=traverseB.next;
             traverseA=traverseA.next;
             countA-=1;
-            countB-=1;
         }
 
         return null;
