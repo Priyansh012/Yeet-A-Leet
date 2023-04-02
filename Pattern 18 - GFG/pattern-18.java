@@ -1,0 +1,37 @@
+//{ Driver Code Starts
+import java.io.*;
+import java.util.*;
+
+class Main {
+    // Driver code
+    public static void main(String[] args) throws Exception {
+        BufferedReader br =
+            new BufferedReader(new InputStreamReader(System.in));
+        int t = Integer.parseInt(br.readLine().trim());
+        while (t-- > 0) {
+            int n = Integer.parseInt(br.readLine().trim());
+            Solution obj = new Solution();
+            obj.printTriangle(n);
+        }
+    }
+}
+// } Driver Code Ends
+
+
+class Solution {
+
+    void printTriangle(int n) {
+        // code here
+        for(int i=n;i>0;i--){
+            int count =64;
+            System.out.print((char)(count+n));
+            count-=1;
+            for(int j=n;j>i;j--){
+                System.out.print(" ");
+                System.out.print((char)(count+n));
+                count-=1;
+            }
+            System.out.println();
+        }
+    }
+}
