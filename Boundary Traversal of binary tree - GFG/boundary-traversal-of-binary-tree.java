@@ -142,6 +142,7 @@ class Solution
                 cur=cur.left;
         }
         
+	//to add in reverse the right boundary elements
         while(!stack.isEmpty()){
             result.add(stack.pop());
         }
