@@ -1,2 +1,2 @@
-# Coding-Questions
-Collection of LeetCode,GFG questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub)
+# DSA-Questions
+Java solutions to some of the common DSA problems!
