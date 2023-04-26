@@ -131,5 +131,17 @@ class Tree {
         return node.data;
     }
     
-    
+    // Function to find the max element in the given BST.
+    int maxValue(Node node) {
+        if(node==null)
+            return -1;
+        
+        if(node.right==null)
+            return node.data;
+        while(node.right!=null){
+            node=node.right;
+        }
+        
+        return node.data;
+    }
 }
