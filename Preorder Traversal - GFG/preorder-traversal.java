@@ -120,10 +120,10 @@ class GfG {
 //     }
 // }
 
+//Morris PreOrder Traversal TC: O(N), SC: O(1) 
+//this is called as Binary Threaded Tree
 class BinaryTree
 {
-    //Morris PreOrder Traversal TC: O(N), SC: O(1) 
-    //this is called as Binary Threaded Tree
     static ArrayList<Integer> preorder(Node root)
     {
         ArrayList<Integer> preOrd = new ArrayList<Integer>();
