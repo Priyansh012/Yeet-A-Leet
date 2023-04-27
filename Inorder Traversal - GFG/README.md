@@ -1,4 +1,4 @@
-# Inorder Traversal
+# Inorder Traversal (Morris Traversal method)
 ## Easy
 <div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a Binary Tree, find the In-Order Traversal of it.</span></p>
 
