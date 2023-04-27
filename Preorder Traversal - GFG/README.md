@@ -1,4 +1,4 @@
-# Preorder Traversal
+# Preorder Traversal (Morris Traversal method)
 ## Easy
 <div class="problems_problem_content__Xm_eO"><p><span style="font-size:18px">Given a&nbsp;binary tree, find&nbsp;its&nbsp;preorder traversal.</span></p>
 
