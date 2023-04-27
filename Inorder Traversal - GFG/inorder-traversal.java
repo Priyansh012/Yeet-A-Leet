@@ -109,9 +109,11 @@ class Node {
         left = right = null;
     }
 } */
+   
+
+//Morris Inorder Traversal TC: O(N), SC: O(1) 
+//this is called as Binary Threaded Tree where we create a threaded connection between nodes and then remove it 
 class Solution {
-    //Morris Inorder Traversal TC: O(N), SC: O(1) 
-    //this is called as Binary Threaded Tree where we create a threaded connection between nodes and then remove it 
     ArrayList<Integer> inOrder(Node root) {
         ArrayList<Integer> inorder = new ArrayList<Integer>();
         Node cur = root;
