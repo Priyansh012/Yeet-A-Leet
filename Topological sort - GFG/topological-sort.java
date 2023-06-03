@@ -58,37 +58,83 @@ class Main {
 /*Complete the function below*/
 
 
+//DFS method via cycle detection
+
+// class Solution
+// {
+//     //Function to return list containing vertices in Topological order. 
+//     static int[] topoSort(int V, ArrayList<ArrayList<Integer>> adj) 
+//     {
+//         boolean visited [] = new boolean[V]; 
+//         Stack<Integer> st = new Stack<Integer>();
+//         int sortedResult [] = new int[V];
+        
+//         for(int i=0;i<V;i++){
+//             if(!visited[i]){
+//                 dfs(i, visited, adj, st);
+//             }
+//         }
+        
+//         int i=0;
+//         while(!st.isEmpty()){
+//             sortedResult[i++]=st.pop();
+//         }
+        
+//         return sortedResult;
+//     }
+    
+//     private static void dfs(int node, boolean visited [], ArrayList<ArrayList<Integer>> adj, Stack<Integer> st){
+//         visited[node] = true;
+
+//         for(Integer it: adj.get(node)){
+//             if(visited[it]==false){
+//                 dfs(it,visited,adj,st);
+//             }
+//         }
+//         st.push(node);
+//     }
+// }
+
+
+//BFS method via Kahn's Algo
+
 class Solution
 {
     //Function to return list containing vertices in Topological order. 
     static int[] topoSort(int V, ArrayList<ArrayList<Integer>> adj) 
     {
-        boolean visited [] = new boolean[V]; 
-        Stack<Integer> st = new Stack<Integer>();
+        int  inDegree [] = new int [V]; 
+        Queue<Integer> q = new LinkedList<Integer>();
         int sortedResult [] = new int[V];
         
+        //fill indegree of each nodes
         for(int i=0;i<V;i++){
-            if(!visited[i]){
-                dfs(i, visited, adj, st);
+            for(int neighbor: adj.get(i)){
+                inDegree[neighbor]++;
             }
         }
         
-        int i=0;
-        while(!st.isEmpty()){
-            sortedResult[i++]=st.pop();
+        //add all the nodes in q with inDegree as 0
+        for(int i=0;i<V;i++){
+            if(inDegree[i]==0)
+                q.add(i);
         }
+        
+        int i=0;
+        //bfs, pop the top node of q and traverse its neighbors
+        while(!q.isEmpty()){
+            int node=q.poll();
+            sortedResult[i++]=node;
+            
+            for(int neighbor: adj.get(node)){
+                inDegree[neighbor]--;
+                if(inDegree[neighbor]==0)
+                    q.add(neighbor);
+            }
+        }
+        
         
         return sortedResult;
     }
     
-    private static void dfs(int node, boolean visited [], ArrayList<ArrayList<Integer>> adj, Stack<Integer> st){
-        visited[node] = true;
-
-        for(Integer it: adj.get(node)){
-            if(visited[it]==false){
-                dfs(it,visited,adj,st);
-            }
-        }
-        st.push(node);
-    }
 }
