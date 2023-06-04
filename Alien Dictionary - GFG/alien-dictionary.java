@@ -113,11 +113,12 @@ class Solution
             }
         }
         
-        //now the DAG is ready, so just do plain
+        //now the DAG is ready, so just do plain topoSort
         
        ArrayList<Integer> topoSort = topoSort(K,adj);
         StringBuilder ans= new StringBuilder();
         for(int i=0;i<K;i++){
+            //convert numbers to ASCII value
             ans.append((char)(topoSort.get(i)+(int)'a'));
         }
         
