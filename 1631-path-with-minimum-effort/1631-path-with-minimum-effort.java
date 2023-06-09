@@ -11,6 +11,7 @@ class Pair{
 
 }
 
+//Dijkstra's Algo
 class Solution {
     public int minimumEffortPath(int[][] heights) {
         PriorityQueue<Pair> pq = new PriorityQueue<Pair>((x,y) -> x.distance - y.distance);
