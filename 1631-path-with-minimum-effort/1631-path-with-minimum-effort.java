@@ -3,7 +3,7 @@ class Pair{
     int col;
     int distance;
 
-    Pair(int _row, int _col, int _distance){
+    Pair(int _distance, int _row, int _col){
         this.row=_row;
         this.col=_col;
         this.distance=_distance;
@@ -52,7 +52,7 @@ class Solution {
                     , diff);
                     if(nEffort<dist[nRow][nCol]){
                         dist[nRow][nCol]=nEffort;
-                        pq.offer(new Pair(nRow, nCol, nEffort));
+                        pq.offer(new Pair(nEffort, nRow, nCol));
                     }
                 }
                     
