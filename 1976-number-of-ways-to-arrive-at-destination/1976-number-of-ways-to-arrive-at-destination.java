@@ -35,7 +35,7 @@ class Solution {
         dist[0]=0;
         ways[0]=1;
 
-        //steps, node
+        //distance, node
         pq.add(new Pair(0,0));
 
         int mod=(int) 1e9+7;
