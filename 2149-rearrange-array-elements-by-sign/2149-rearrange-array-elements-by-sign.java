@@ -3,7 +3,9 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
         int [] out = new int [nums.length];
+        //pointer for positive no.(since array should start from positive)
         int j = 0;
+        //pointer for negative no.
         int k = 1;
         for(int i=0;i<nums.length;i++){
             if(nums[i] >= 0){
