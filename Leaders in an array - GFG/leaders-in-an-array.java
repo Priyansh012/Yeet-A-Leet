@@ -49,44 +49,21 @@ class Solution{
     //Function to find the leaders in the array.
     static ArrayList<Integer> leaders(int arr[], int n){
         // Your code here
-        ArrayList<Integer> leaders= new ArrayList<Integer>();
-        int prefixSum [] = new int[n];
-        prefixSum[n-1]=0;
         
-        for(int i=n-2;i>=0;i--){
-            prefixSum[i]= Math.max(prefixSum[i+1],arr[i+1]);
+        ArrayList<Integer> result =new ArrayList<Integer>();
+        int max=arr[n-1];
+        
+        result.add(arr[n-1]);
+        
+        for(int i=n-2; i>=0; i--){
+            if(arr[i]>=max){
+                max=arr[i];
+                result.add(arr[i]);
+            }
         }
         
-        for(int i=0;i<n;i++){
-           // System.out.print(prefixSum[i]);
-            if(arr[i]>=prefixSum[i])
-                leaders.add(arr[i]);
-        }
+        Collections.reverse(result);
+        return result;
         
-        return leaders;
-    }
+        }
 }
-
-//optimal solution
-/*class Solution{
-    //Function to find the leaders in the array.
-    static ArrayList<Integer> leaders(int arr[], int n){
-        // Your code here
-        ArrayList<Integer> result = new ArrayList<>();
-       int max = arr[n-1];
-       
-       for(int i=n-1; i>=0; i--) {
-           
-           if (arr[i]>=max) {
-               
-           result.add(arr[i]);
-              max = arr[i];
-           }
-       
-       }
-       
-       Collections.reverse(result);
-       
-       return result;
-    }
-}*/
