@@ -10,6 +10,7 @@ class GFG {
 	{
 	        BufferedReader br =
             new BufferedReader(new InputStreamReader(System.in));
+            PrintWriter ot = new  PrintWriter(System.out);
         int t =
             Integer.parseInt(br.readLine().trim()); // Inputting the testcases
         while(t-->0)
@@ -25,10 +26,11 @@ class GFG {
             obj.segregateElements(a, n);
             
             for(int i=0;i<n;i++)
-            System.out.print(a[i]+" ");
+            ot.print(a[i]+" ");
             
-            System.out.println();
+            ot.println();
         }
+        ot.close();
 	}
 }
 
@@ -41,23 +43,24 @@ class Solution {
     
     public void segregateElements(int arr[], int n)
     {
-        // Your code goes here
-        int ptr=0;
-        int temp [] = new int[n];
-        for(int i=0;i<n;i++){
-            if(arr[i]>=0){
-                temp[ptr]=arr[i];
-                ptr++;
-            }
+        ArrayList<Integer> pos = new ArrayList<>();
+        ArrayList<Integer> neg = new ArrayList<>();
+        
+        for(int i: arr){
+            if(i<0)
+                neg.add(i);
+            else
+                pos.add(i);
         }
         
-        for(int i=0;i<n;i++){
-            if(arr[i]<0){
-                temp[ptr]=arr[i];
-                ptr++;
-            }
+        int index=0;
+        for(int i: pos){
+            arr[index++]=i;
         }
         
-        System.arraycopy(temp, 0, arr, 0, arr.length);
+        for(int j: neg){
+            arr[index++]=j;
+        }
+        
     }
 }
