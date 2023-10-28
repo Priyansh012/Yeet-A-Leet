@@ -1,12 +1,9 @@
 public class DisjointSet {
-	List<Integer> rank = new ArrayList<Integer>();
 	List<Integer> parent = new ArrayList<Integer>();
 	List<Integer> size = new ArrayList<Integer>();
 	
 	public DisjointSet(int n) {
 		for(int i=0;i<=n;i++) {
-			//initially ranks of all nodes will be 0
-			rank.add(0);
 			//initially parent of all nodes will be the nodes themselves
 			parent.add(i);
 			
@@ -22,27 +19,6 @@ public class DisjointSet {
 		parent.set(node, ultimateParent);
 		return parent.get(node);
 					
-	}
-	
-	public void unionByRank(int u, int v) {
-		int ultimateParentU=findParent(u);
-		int ultimateParentV=findParent(v);
-		if(ultimateParentU==ultimateParentV)
-			return;
-		
-		if(rank.get(ultimateParentU)<rank.get(ultimateParentV)) {
-			parent.set(ultimateParentU, ultimateParentV);
-		}
-		
-		else if(rank.get(ultimateParentV)<rank.get(ultimateParentU)) {
-			parent.set(ultimateParentV, ultimateParentU);
-		}
-		
-		else {
-			parent.set(ultimateParentV, ultimateParentU);
-			int rankU=rank.get(ultimateParentU);
-			rank.set(ultimateParentU, rankU+1);
-		}
 	}
 	
 	public void unionBySize(int u, int v) {
