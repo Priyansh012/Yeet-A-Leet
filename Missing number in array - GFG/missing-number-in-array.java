@@ -18,7 +18,7 @@ class GFG {
                 array[i] = Integer.parseInt(str[i]);
             }
             Solution sln = new Solution();
-            System.out.println(sln.MissingNumber(array, n));
+            System.out.println(sln.missingNumber(array, n));
         }
     }
 }
@@ -28,11 +28,24 @@ class GFG {
 // User function Template for Java
 
 class Solution {
-    int MissingNumber(int array[], int n) {
-        // Your Code Here
-        Arrays.sort(array);
-        for(int i=0;i<n-1;i++){
-            if((i+1)!=array[i])
+    int missingNumber(int array[], int n) {
+        int temp;
+        int i=0;
+        int len=array.length;
+        
+        while(i<len){
+            int correctPos=array[i]-1;
+            if(array[i]<len && array[i]!=array[correctPos]){
+                temp=array[i];
+                array[i]=array[correctPos];
+                array[correctPos]=temp;
+            }
+            else
+                i++;
+        }
+    
+        for(i=0;i<array.length;i++){
+            if((array[i]!=i+1))
                 return i+1;
         }
         
