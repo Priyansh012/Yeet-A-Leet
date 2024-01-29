@@ -10,22 +10,48 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        Stack<Integer> elements = new Stack<Integer>();
-        ListNode traverse= head;
+        if(head == null || head.next == null)
+            return true;
+        ListNode slow=head;
+        ListNode fast=head;
+        int count = 0;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            count++;
+            fast=fast.next.next;
 
-        while(traverse!=null){
-            elements.push(traverse.val);
-            traverse=traverse.next;
         }
+        //System.out.println(slow.val + "," + slow.next.val);
+        if(slow.next == null)   
+            return head.val == slow.val; 
+        ListNode prev=slow;
+        ListNode cur=slow.next;
+        ListNode next=cur.next;
 
-        traverse=head;
-        while(traverse!=null){
-            if(traverse.val!=elements.peek())
+
+        while(cur.next!=null){
+            cur.next=prev;
+            prev=cur;
+            cur=next;
+            next=next.next;
+        }
+        cur.next=prev;
+
+
+        while(head!=cur && count > 0){
+            if(cur.val!=head.val)
                 return false;
-            traverse=traverse.next;
-            elements.pop();
+            
+            cur=cur.next;
+            head=head.next;
+            count--;
         }
-
+        // while(head != cur && count > 0){
+        //     System.out.println(head.val + " , " + cur.val);
+        //     head = head.next;
+        //     cur = cur.next;
+        //     count--;
+        // }
         return true;
     }
 }
