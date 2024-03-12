@@ -23,7 +23,7 @@ class Solution {
         tempListWithCurrent.add(arr[index]);
         recursiveFunc(index + 1, arr, tempListWithCurrent, N, result);
 
-        // Scenario 2: Don't pick the element
+        // Don't pick the element
         // Proceed with recursion without adding the current element
         recursiveFunc(index + 1, arr, tempList, N, result);
     }    
