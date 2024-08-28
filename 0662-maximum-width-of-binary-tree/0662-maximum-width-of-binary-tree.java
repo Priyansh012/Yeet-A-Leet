@@ -13,48 +13,42 @@
  *     }
  * }
  */
-
- class Pair{
-     TreeNode node;
-     long num;
-
-     Pair(TreeNode _node, long _num){
-         node=_node;
-         num=_num;
-     }
- }
-
-
 class Solution {
     public int widthOfBinaryTree(TreeNode root) {
         if(root==null)
             return 0;
-        long maxWidth=0;
-        Queue<Pair> q= new LinkedList<Pair>();
-        q.offer( new Pair (root,0));
+        
+        //using long because the range of numbers can be more than the max. int value
+        //but the final answer will be 32 bit singed integer
+        //so after substraction the value will be 32 bit sing int but before it can be long
+        long maxWidth = 0;
+        Queue<Pair<TreeNode, Long>> q = new LinkedList<>();
+        q.offer(new Pair<>(root, 0L));
 
-        while(!q.isEmpty()){
-            int n=q.size();
-            long mmin= q.peek().num;
-            long first=0, last=0;
-            for(int i=0;i<n;i++){
-                long curId= q.peek().num-mmin;
-                TreeNode node = q.peek().node;
+        while (!q.isEmpty()) {
+            int n = q.size();
+            long first = 0, last = 0;
+            for (int i = 0; i < n; i++) {
+                long curIdx = q.peek().getValue();
+                TreeNode node = q.peek().getKey();
                 q.poll();
-                if(i==0)
-                    first=curId;
-                if(i==n-1)
-                    last=curId;
+
+                if (i == 0)
+                    first = curIdx;
                 
-                if(node.left!=null)
-                    q.offer(new Pair(node.left, 2*curId+1));
-                if(node.right!=null)
-                    q.offer(new Pair(node.right, 2*curId+2));
+                if (i == n - 1)
+                    last = curIdx;
+
+                if (node.left != null)
+                    q.offer(new Pair<>(node.left, 2L * curIdx + 1L));
+                
+                if (node.right != null)
+                    q.offer(new Pair<>(node.right, 2L * curIdx + 2L));
             }
 
-            maxWidth= Math.max(maxWidth, last-first+1);
-        }
+            maxWidth = Math.max(maxWidth, last - first + 1);
+        } 
 
-        return (int)maxWidth;
+        return (int) maxWidth;
     }
 }
