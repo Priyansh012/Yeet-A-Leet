@@ -1,56 +1,39 @@
 class Solution {
-
     public int[][] merge(int[][] intervals) {
-        int m=intervals.length;
-        List<List<Integer>> result = new ArrayList<>();
+        Arrays.sort(intervals, (a,b) -> a[0]==b[0]? Double.compare(a[1], b[1]): Double.compare(a[0], b[0]));
 
-        Arrays.sort(intervals, (a,b) -> a[0]-b[0]);
-        int end=1;
-        result.add(new ArrayList<>());
-        result.get(0).add(intervals[0][0]);
-        result.get(0).add(intervals[0][1]);
-        while(end<m){
-            if(result.get(result.size()-1).get(1)<intervals[end][0]){
-                result.add(new ArrayList<>());
-                result.get(result.size()-1).add(intervals[end][0]);
-                result.get(result.size()-1).add(intervals[end][1]);
+        Map<Integer, Integer> result = new TreeMap<>();
+        int left=intervals[0][0];
+        int right=intervals[0][1];
+        int curLeft=0;
+        int curRight=0;
+
+        result.put(left, right);
+
+        for(int i=1;i<intervals.length; i++){
+            curLeft=intervals[i][0];
+            curRight=intervals[i][1];
+
+            if(curLeft<=right){
+                right=Math.max(right, curRight);
+                result.put(left, right);
             }
             else{
-                int tempStart=result.get(result.size()-1).get(0);
-                int tempEnd=result.get(result.size()-1).get(1);
-                result.remove(result.size()-1);
-                result.add(new ArrayList<>());
-                result.get(result.size()-1).add(tempStart);
-                result.get(result.size()-1).add(Math.max(tempEnd,intervals[end][1]));
+                left=curLeft;
+                right=curRight;
+                result.put(left,right);
             }
-            end++;
         }
-                return result.stream().map(l -> l.stream().mapToInt(Integer::intValue).toArray())     .toArray(int[][]::new);
+
+        int ans [][] = new int [result.size()][2];
+       int index = 0;
+        for (Map.Entry<Integer, Integer> entry : result.entrySet()) {
+            ans[index][0] = entry.getKey();   
+            ans[index][1] = entry.getValue();
+            index++;
+        }
+
+        return ans;
 
     }
-
-    //easy to read approach with List<int []>
-    /*
-    public int[][] merge(int[][] intervals) {
-		if (intervals.length <= 1)
-			return intervals;
-
-		// Sort by ascending starting point
-		Arrays.sort(intervals, (i1, i2) -> Integer.compare(i1[0], i2[0]));
-
-		List<int[]> result = new ArrayList<>();
-		int[] newInterval = intervals[0];
-		result.add(newInterval);
-		for (int[] interval : intervals) {
-			if (interval[0] <= newInterval[1]) // Overlapping intervals, move the end if needed
-				newInterval[1] = Math.max(newInterval[1], interval[1]);
-			else {                             // Disjoint intervals, add the new interval to the list
-				newInterval = interval;
-				result.add(newInterval);
-			}
-		}
-
-		return result.toArray(new int[result.size()][]);
-	}
-    */
 }
