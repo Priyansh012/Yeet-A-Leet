@@ -1,5 +1,9 @@
 class Solution {
-    public int lengthOfLongestSubstring(String s) {
+
+    //bruteforce will be O(n*m)
+
+    //now better but some elements will be visited twice
+    /*public int lengthOfLongestSubstring(String s) {
         Set<Character> set = new HashSet<>();
         int left=0, right=0, max=0;
         int flag=0;
@@ -24,5 +28,22 @@ class Solution {
         }
 
         return flag==0?right-left:max;
+    }*/
+
+    //optimal O(n) TC and O(m) SC
+    public int lengthOfLongestSubstring(String s) {
+        HashSet<Character> charSet = new HashSet<>();
+        int l = 0;
+        int res = 0;
+
+        for (int r = 0; r < s.length(); r++) {
+            while (charSet.contains(s.charAt(r))) {
+                charSet.remove(s.charAt(l));
+                l++;
+            }
+            charSet.add(s.charAt(r));
+            res = Math.max(res, r - l + 1);
+        }
+        return res;
     }
 }
