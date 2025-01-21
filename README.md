@@ -29,17 +29,20 @@ Java solutions to some of the common DSA problems!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [3194-find-words-containing-character](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/3194-find-words-containing-character) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0076-minimum-window-substring) |
+| [0424-longest-repeating-character-replacement](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
