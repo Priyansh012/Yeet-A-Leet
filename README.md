@@ -55,4 +55,20 @@ Java solutions to some of the common DSA problems!
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0975-range-sum-of-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0975-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0975-range-sum-of-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
