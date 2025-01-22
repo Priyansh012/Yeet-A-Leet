@@ -47,6 +47,7 @@ Java solutions to some of the common DSA problems!
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -74,4 +75,12 @@ Java solutions to some of the common DSA problems!
 | ------- |
 | [0904-leaf-similar-trees](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0975-range-sum-of-bst) |
+## Linked List
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Number Theory
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
