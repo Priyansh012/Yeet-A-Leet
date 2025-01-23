@@ -47,6 +47,7 @@ Java solutions to some of the common DSA problems!
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Sorting
 |  |
@@ -78,9 +79,14 @@ Java solutions to some of the common DSA problems!
 ## Linked List
 |  |
 | ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
