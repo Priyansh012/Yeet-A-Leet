@@ -21,6 +21,7 @@ Java solutions to some of the common DSA problems!
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -33,6 +34,7 @@ Java solutions to some of the common DSA problems!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0424-longest-repeating-character-replacement) |
+| [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
 ## String
 |  |
 | ------- |
@@ -55,6 +57,7 @@ Java solutions to some of the common DSA problems!
 ## Sorting
 |  |
 | ------- |
+| [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Game Theory
 |  |
@@ -115,4 +118,12 @@ Java solutions to some of the common DSA problems!
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0226-invert-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
+## Ordered Set
+|  |
+| ------- |
+| [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
 <!---LeetCode Topics End-->
