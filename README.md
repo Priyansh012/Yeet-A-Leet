@@ -11,6 +11,7 @@ Java solutions to some of the common DSA problems!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3194-find-words-containing-character](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
@@ -37,6 +38,7 @@ Java solutions to some of the common DSA problems!
 | [0424-longest-repeating-character-replacement](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## String
 |  |
 | ------- |
@@ -129,4 +131,8 @@ Java solutions to some of the common DSA problems!
 |  |
 | ------- |
 | [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
+## Counting
+|  |
+| ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
