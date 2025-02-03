@@ -8,12 +8,12 @@ class Solution {
         }
 
         for(int key: freqMap.keySet()){
-            // if(freqMap.containsKey(key-k)){
-            //     pairs+=freqMap.get(key)*freqMap.get(key-k);
-            // }
-            if(freqMap.containsKey(key+k)){
-                pairs+=freqMap.get(key)*freqMap.get(key+k);
+            if(freqMap.containsKey(key-k)){
+                pairs+=freqMap.get(key)*freqMap.get(key-k);
             }
+            // if(freqMap.containsKey(key+k)){
+            //     pairs+=freqMap.get(key)*freqMap.get(key+k);
+            // }
         }
 
         return pairs;
