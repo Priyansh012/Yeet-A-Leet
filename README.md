@@ -12,18 +12,21 @@ Java solutions to some of the common DSA problems!
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3194-find-words-containing-character](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +66,7 @@ Java solutions to some of the common DSA problems!
 | ------- |
 | [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Game Theory
 |  |
 | ------- |
