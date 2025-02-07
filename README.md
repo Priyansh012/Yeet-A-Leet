@@ -10,6 +10,7 @@ Java solutions to some of the common DSA problems!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1775-design-an-ordered-stream](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1775-design-an-ordered-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -41,6 +42,7 @@ Java solutions to some of the common DSA problems!
 | [0424-longest-repeating-character-replacement](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
 | [1512-design-underground-system](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1512-design-underground-system) |
+| [1775-design-an-ordered-stream](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1775-design-an-ordered-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## String
@@ -133,6 +135,7 @@ Java solutions to some of the common DSA problems!
 | ------- |
 | [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
 | [1512-design-underground-system](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1512-design-underground-system) |
+| [1775-design-an-ordered-stream](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1775-design-an-ordered-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Ordered Set
 |  |
@@ -142,4 +145,8 @@ Java solutions to some of the common DSA problems!
 |  |
 | ------- |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+## Data Stream
+|  |
+| ------- |
+| [1775-design-an-ordered-stream](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1775-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
