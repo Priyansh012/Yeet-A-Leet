@@ -1,26 +1,16 @@
 class RecentCounter {
-    List<Integer> list;
+    Queue<Integer> queue;
+
     public RecentCounter() {
-        list= new ArrayList();
+        queue = new LinkedList<>();
     }
     
     public int ping(int t) {
-        list.add(t);
-        int lower=t-3000;
-
-        Iterator<Integer> iterator = list.iterator();
-        while (iterator.hasNext()) {
-            if (iterator.next()<lower) {
-                iterator.remove();
-            }
+        queue.add(t);
+        // Remove all pings that are older than t - 3000
+        while (!queue.isEmpty() && queue.peek() < t - 3000) {
+            queue.poll();
         }
-            
-        return list.size();
+        return queue.size();
     }
 }
-
-/**
- * Your RecentCounter object will be instantiated and called as such:
- * RecentCounter obj = new RecentCounter();
- * int param_1 = obj.ping(t);
- */
