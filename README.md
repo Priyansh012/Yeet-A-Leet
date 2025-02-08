@@ -133,6 +133,7 @@ Java solutions to some of the common DSA problems!
 ## Design
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0969-number-of-recent-calls) |
 | [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
 | [1512-design-underground-system](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1512-design-underground-system) |
 | [1775-design-an-ordered-stream](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1775-design-an-ordered-stream) |
@@ -148,5 +149,10 @@ Java solutions to some of the common DSA problems!
 ## Data Stream
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0969-number-of-recent-calls) |
 | [1775-design-an-ordered-stream](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1775-design-an-ordered-stream) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
