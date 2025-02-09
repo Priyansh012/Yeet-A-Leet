@@ -9,6 +9,7 @@ Java solutions to some of the common DSA problems!
 | [0011-container-with-most-water](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0011-container-with-most-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0817-design-hashmap](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0817-design-hashmap) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1775-design-an-ordered-stream](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1775-design-an-ordered-stream) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -40,6 +41,7 @@ Java solutions to some of the common DSA problems!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0424-longest-repeating-character-replacement) |
+| [0817-design-hashmap](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0817-design-hashmap) |
 | [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
 | [1512-design-underground-system](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1512-design-underground-system) |
 | [1775-design-an-ordered-stream](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1775-design-an-ordered-stream) |
@@ -111,6 +113,7 @@ Java solutions to some of the common DSA problems!
 ## Linked List
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0817-design-hashmap) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -133,6 +136,7 @@ Java solutions to some of the common DSA problems!
 ## Design
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0817-design-hashmap) |
 | [0969-number-of-recent-calls](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0969-number-of-recent-calls) |
 | [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
 | [1512-design-underground-system](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1512-design-underground-system) |
@@ -155,4 +159,8 @@ Java solutions to some of the common DSA problems!
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0969-number-of-recent-calls) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
