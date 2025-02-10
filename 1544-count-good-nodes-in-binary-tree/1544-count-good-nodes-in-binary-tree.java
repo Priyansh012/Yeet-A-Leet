@@ -14,6 +14,7 @@
  * }
  */
 class Solution {
+    //BFS
     public int goodNodes(TreeNode root) {
         Queue<Pair<TreeNode, Integer>> q= new LinkedList<>();
         q.add(new Pair(root, root.val));
@@ -53,4 +54,24 @@ class Solution {
 
         return count;
     }
+
+    //DFS
+    /*
+    int count = 0; // global variable to count
+
+    public int goodNodes(TreeNode root) {
+        helper(root, root.val);
+        return count; // returning the count value
+    }
+
+    private void helper(TreeNode root, int max) {
+        if (root != null) {
+            if (root.val >= max) { // if root.val > the max value of path from root of the tree to current node 
+                count++; //increment count
+            }
+            helper(root.left, Math.max(root.val, max));  // updating max value of current path and traversing left to the current node
+            helper(root.right, Math.max(root.val, max));  // updating max value of current path and traversing right to the current node
+        }
+    }
+    */
 }
