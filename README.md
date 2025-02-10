@@ -89,6 +89,7 @@ Java solutions to some of the common DSA problems!
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1285-balance-a-binary-search-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -100,6 +101,7 @@ Java solutions to some of the common DSA problems!
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1285-balance-a-binary-search-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -117,6 +119,7 @@ Java solutions to some of the common DSA problems!
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1285-balance-a-binary-search-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Linked List
 |  |
@@ -142,6 +145,7 @@ Java solutions to some of the common DSA problems!
 | [0226-invert-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Design
 |  |
