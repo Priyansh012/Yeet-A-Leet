@@ -9,6 +9,7 @@ Java solutions to some of the common DSA problems!
 | [0011-container-with-most-water](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0011-container-with-most-water) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0690-employee-importance](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0690-employee-importance) |
 | [0817-design-hashmap](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0817-design-hashmap) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1775-design-an-ordered-stream](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1775-design-an-ordered-stream) |
@@ -42,6 +43,7 @@ Java solutions to some of the common DSA problems!
 | [0076-minimum-window-substring](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0535-encode-and-decode-tinyurl) |
+| [0690-employee-importance](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0690-employee-importance) |
 | [0817-design-hashmap](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0817-design-hashmap) |
 | [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
 | [1512-design-underground-system](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1512-design-underground-system) |
@@ -84,6 +86,7 @@ Java solutions to some of the common DSA problems!
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0690-employee-importance](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0690-employee-importance) |
 | [0904-leaf-similar-trees](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -96,6 +99,7 @@ Java solutions to some of the common DSA problems!
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0690-employee-importance](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0690-employee-importance) |
 | [0904-leaf-similar-trees](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -144,6 +148,7 @@ Java solutions to some of the common DSA problems!
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0690-employee-importance](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0690-employee-importance) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2493-reverse-odd-levels-of-binary-tree) |
