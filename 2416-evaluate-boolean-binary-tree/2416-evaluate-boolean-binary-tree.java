@@ -13,11 +13,13 @@
  *     }
  * }
  */
+ // Post order DFS
 class Solution {
     public boolean evaluateTree(TreeNode root) {
         return dfs(root, root.val);
     }
 
+    //left->root->right
     private boolean dfs(TreeNode node, int nodeVal){
         //Leaf Node
         if(node.left==null && node.right==null){
