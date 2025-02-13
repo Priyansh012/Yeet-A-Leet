@@ -87,6 +87,7 @@ Java solutions to some of the common DSA problems!
 | [0226-invert-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0690-employee-importance) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -101,6 +102,7 @@ Java solutions to some of the common DSA problems!
 | [0226-invert-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0690-employee-importance) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -141,6 +143,7 @@ Java solutions to some of the common DSA problems!
 ## Stack
 |  |
 | ------- |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
 |  |
