@@ -16,19 +16,19 @@
 class Solution {
     private int res=0;
     public int averageOfSubtree(TreeNode root) {
-        dfs(root, 0, 0);
+        dfs(root);
         return res;
     }
 
-    private Pair<Integer, Integer> dfs(TreeNode node, int sum, int count){
+    private Pair<Integer, Integer> dfs(TreeNode node){
         if(node==null)
-            return new Pair<>(sum, count);
+            return new Pair<>(0, 0);
         
 
-        Pair<Integer, Integer> leftData=dfs(node.left, sum, count);
-        Pair<Integer, Integer> rightData=dfs(node.right, sum, count);
-        count=leftData.getValue()+rightData.getValue()+1;
-        sum=leftData.getKey()+rightData.getKey()+node.val;
+        Pair<Integer, Integer> leftData=dfs(node.left);
+        Pair<Integer, Integer> rightData=dfs(node.right);
+        int count=leftData.getValue()+rightData.getValue()+1;
+        int sum=leftData.getKey()+rightData.getKey()+node.val;
         int avg=sum/count;
 
         if(node.val==avg){
