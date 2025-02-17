@@ -20,15 +20,16 @@ class Solution {
         return res;
     }
 
-    private Pair<Integer, Integer> dfs(TreeNode node){
+    private int[] dfs(TreeNode node){
         if(node==null)
-            return new Pair<>(0, 0);
+            return new int[]{0, 0};
         
 
-        Pair<Integer, Integer> leftData=dfs(node.left);
-        Pair<Integer, Integer> rightData=dfs(node.right);
-        int count=leftData.getValue()+rightData.getValue()+1;
-        int sum=leftData.getKey()+rightData.getKey()+node.val;
+        int [] leftData=dfs(node.left);
+        int [] rightData=dfs(node.right);
+
+        int sum=leftData[0]+rightData[0]+node.val;
+        int count=leftData[1]+rightData[1]+1;
         int avg=sum/count;
 
         if(node.val==avg){
@@ -37,6 +38,6 @@ class Solution {
         }
             
         
-        return new Pair<>(sum, count);
+        return new int[]{sum,count};
     }
 }
