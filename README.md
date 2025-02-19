@@ -99,6 +99,7 @@ Java solutions to some of the common DSA problems!
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1731-even-odd-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -144,6 +145,7 @@ Java solutions to some of the common DSA problems!
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1285-balance-a-binary-search-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1731-even-odd-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -178,6 +180,7 @@ Java solutions to some of the common DSA problems!
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1731-even-odd-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1731-even-odd-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Design
