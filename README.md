@@ -57,6 +57,7 @@ Java solutions to some of the common DSA problems!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0008-string-to-integer-atoi) |
 | [0076-minimum-window-substring](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0535-encode-and-decode-tinyurl) |
