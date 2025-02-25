@@ -11,6 +11,7 @@ Java solutions to some of the common DSA problems!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0189-rotate-array) |
 | [0690-employee-importance](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0690-employee-importance) |
 | [0817-design-hashmap](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0817-design-hashmap) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -24,6 +25,7 @@ Java solutions to some of the common DSA problems!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0189-rotate-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
@@ -74,6 +76,7 @@ Java solutions to some of the common DSA problems!
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0189-rotate-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
