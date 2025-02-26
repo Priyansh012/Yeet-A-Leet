@@ -44,6 +44,7 @@ Java solutions to some of the common DSA problems!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0179-largest-number) |
+| [0778-reorganize-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0778-reorganize-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1285-balance-a-binary-search-tree) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Hash Table
@@ -54,6 +55,7 @@ Java solutions to some of the common DSA problems!
 | [0424-longest-repeating-character-replacement](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0535-encode-and-decode-tinyurl) |
 | [0690-employee-importance](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0690-employee-importance) |
+| [0778-reorganize-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0817-design-hashmap) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
@@ -72,6 +74,7 @@ Java solutions to some of the common DSA problems!
 | [0394-decode-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0535-encode-and-decode-tinyurl) |
+| [0778-reorganize-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0778-reorganize-string) |
 | [1512-design-underground-system](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1512-design-underground-system) |
 | [3194-find-words-containing-character](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/3194-find-words-containing-character) |
 ## Sliding Window
@@ -92,6 +95,7 @@ Java solutions to some of the common DSA problems!
 | ------- |
 | [0056-merge-intervals](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0179-largest-number) |
+| [0778-reorganize-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0778-reorganize-string) |
 | [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -221,6 +225,7 @@ Java solutions to some of the common DSA problems!
 ## Counting
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0778-reorganize-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Data Stream
 |  |
@@ -244,4 +249,8 @@ Java solutions to some of the common DSA problems!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0287-find-the-duplicate-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
