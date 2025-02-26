@@ -13,6 +13,7 @@ Java solutions to some of the common DSA problems!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0287-find-the-duplicate-number) |
 | [0690-employee-importance](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0690-employee-importance) |
 | [0817-design-hashmap](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0817-design-hashmap) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -27,6 +28,7 @@ Java solutions to some of the common DSA problems!
 | [0011-container-with-most-water](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0287-find-the-duplicate-number) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
@@ -34,6 +36,7 @@ Java solutions to some of the common DSA problems!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0287-find-the-duplicate-number) |
 | [1470-tweet-counts-per-frequency](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1470-tweet-counts-per-frequency) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
@@ -237,4 +240,8 @@ Java solutions to some of the common DSA problems!
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0394-decode-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
