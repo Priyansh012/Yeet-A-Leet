@@ -66,6 +66,7 @@ Java solutions to some of the common DSA problems!
 | [0008-string-to-integer-atoi](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0008-string-to-integer-atoi) |
 | [0076-minimum-window-substring](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0179-largest-number) |
+| [0394-decode-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0424-longest-repeating-character-replacement) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0535-encode-and-decode-tinyurl) |
 | [1512-design-underground-system](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1512-design-underground-system) |
@@ -178,6 +179,7 @@ Java solutions to some of the common DSA problems!
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0394-decode-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0933-increasing-order-search-tree) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -231,4 +233,8 @@ Java solutions to some of the common DSA problems!
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0535-encode-and-decode-tinyurl) |
 | [0817-design-hashmap](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0817-design-hashmap) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
