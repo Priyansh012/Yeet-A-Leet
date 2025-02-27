@@ -7,6 +7,7 @@ Java solutions to some of the common DSA problems!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0056-merge-intervals) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0162-find-peak-element) |
@@ -43,6 +44,7 @@ Java solutions to some of the common DSA problems!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0778-reorganize-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1285-balance-a-binary-search-tree) |
@@ -257,4 +259,8 @@ Java solutions to some of the common DSA problems!
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0778-reorganize-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
