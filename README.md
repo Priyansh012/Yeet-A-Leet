@@ -28,6 +28,7 @@ Java solutions to some of the common DSA problems!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0011-container-with-most-water) |
+| [0143-reorder-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0287-find-the-duplicate-number) |
@@ -182,6 +183,7 @@ Java solutions to some of the common DSA problems!
 ## Linked List
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0143-reorder-list) |
 | [0817-design-hashmap](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0817-design-hashmap) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -192,6 +194,7 @@ Java solutions to some of the common DSA problems!
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0394-decode-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0933-increasing-order-search-tree) |
@@ -252,6 +255,7 @@ Java solutions to some of the common DSA problems!
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0394-decode-string) |
 ## Bit Manipulation
 |  |
