@@ -117,6 +117,7 @@ Java solutions to some of the common DSA problems!
 | [0199-binary-tree-right-side-view](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0690-employee-importance) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -140,6 +141,7 @@ Java solutions to some of the common DSA problems!
 | [0199-binary-tree-right-side-view](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0690-employee-importance) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -170,6 +172,7 @@ Java solutions to some of the common DSA problems!
 | [0199-binary-tree-right-side-view](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0933-increasing-order-search-tree) |
@@ -215,6 +218,7 @@ Java solutions to some of the common DSA problems!
 | [0199-binary-tree-right-side-view](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0623-add-one-row-to-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0690-employee-importance](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0690-employee-importance) |
 | [1005-univalued-binary-tree](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1005-univalued-binary-tree) |
