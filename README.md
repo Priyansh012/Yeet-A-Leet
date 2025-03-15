@@ -197,6 +197,7 @@ Java solutions to some of the common DSA problems!
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0143-reorder-list) |
 | [0817-design-hashmap](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0817-design-hashmap) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -273,6 +274,7 @@ Java solutions to some of the common DSA problems!
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0394-decode-string) |
 ## Bit Manipulation
