@@ -93,6 +93,7 @@ Java solutions to some of the common DSA problems!
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0189-rotate-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -290,4 +291,9 @@ Java solutions to some of the common DSA problems!
 | ------- |
 | [0045-jump-game-ii](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
