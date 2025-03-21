@@ -15,6 +15,7 @@ Java solutions to some of the common DSA problems!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0198-house-robber) |
 | [0287-find-the-duplicate-number](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0287-find-the-duplicate-number) |
 | [0690-employee-importance](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0690-employee-importance) |
 | [0817-design-hashmap](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0817-design-hashmap) |
@@ -292,6 +293,7 @@ Java solutions to some of the common DSA problems!
 | [0045-jump-game-ii](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
