@@ -10,6 +10,7 @@ Java solutions to some of the common DSA problems!
 | [0045-jump-game-ii](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0056-merge-intervals) |
+| [0063-unique-paths-ii](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0063-unique-paths-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -295,6 +296,7 @@ Java solutions to some of the common DSA problems!
 | [0045-jump-game-ii](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0213-house-robber-ii) |
@@ -306,4 +308,8 @@ Java solutions to some of the common DSA problems!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->
