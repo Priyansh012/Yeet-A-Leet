@@ -12,6 +12,7 @@ Java solutions to some of the common DSA problems!
 | [0056-merge-intervals](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -300,6 +301,7 @@ Java solutions to some of the common DSA problems!
 | [0063-unique-paths-ii](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Priyansh012/Yeet-A-Leet/tree/master/0213-house-robber-ii) |
 ## Memoization
